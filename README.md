@@ -1,5 +1,6 @@
 # Snake-Game
 This is a classic Snake Game in Java.
+
 Pre-requisite:
   1. Operating System: Java applications can run on various operating systems such as Windows, Linux, and MacOS.
   2. Install latest version of Java Development Kit (JDK)
